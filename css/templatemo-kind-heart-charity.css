@@ -1073,7 +1073,7 @@ blockquote::before {
 }
 
 .contact-form {
-  background: var(--section-bg-color);
+  background: #cdccf6;
   border-radius: var(--border-radius-small);
   padding: 40px;
 }
